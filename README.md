@@ -1,0 +1,2 @@
+# AIcheatsheet
+just notes
